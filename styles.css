@@ -485,10 +485,11 @@ textarea{
 @media (max-width: 400px) {
   .hero-avatar{
     height: 40vh;
+    margin: 3% 0 0 20%;
   }
 
   .mypic{
-    height: 40vh;
+    height: 50vh;
     margin: 0 0 0 20%;
     transform: scaleX(-1);
   }
@@ -497,7 +498,7 @@ textarea{
   }
 
   .help{
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
 
   .experiments{
