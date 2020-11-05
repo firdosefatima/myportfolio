@@ -485,7 +485,7 @@ textarea{
 @media (max-width: 400px) {
   .hero-avatar{
     height: 40vh;
-    margin: 3% 0 0 20%;
+    margin: 3% 0 0 10%;
   }
 
   .mypic{
