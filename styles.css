@@ -132,7 +132,7 @@ h2{
   height: auto;
   width: auto;
   overflow: hidden;
-  background-image: url('../images/background.png');
+  background-image: url('images/background.png');
   background-size: auto;
   padding-bottom: 11%;
 }
